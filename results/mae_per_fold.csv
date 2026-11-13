@@ -1,0 +1,7 @@
+fold,"Course model (HistGB, original features)",Ensemble (LightGBM + Ridge),"LightGBM (direct, new features)",Persistence,"Ridge (direct, new features)",Seasonal naive (same hour yesterday)
+2024-11,4.918,4.308,4.869,5.948,4.385,5.71
+2024-12,4.629,3.989,4.296,5.208,4.085,4.684
+2025-01,3.515,3.319,3.283,5.925,3.747,4.38
+2025-02,3.503,3.613,3.484,6.48,3.941,4.92
+2025-03,3.467,3.617,3.354,5.816,4.134,4.876
+2025-04,2.931,3.238,3.08,4.337,3.572,4.341

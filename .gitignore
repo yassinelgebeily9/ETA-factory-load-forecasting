@@ -1,0 +1,7 @@
+# Course data belongs to TU Darmstadt / PTW and is not published here.
+data/*.csv
+data/test_slices/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

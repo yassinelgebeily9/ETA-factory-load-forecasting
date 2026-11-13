@@ -1,0 +1,7 @@
+model,mae_kw,vs_persistence_%
+Ensemble (LightGBM + Ridge),3.673,34.529
+"LightGBM (direct, new features)",3.718,33.726
+"Course model (HistGB, original features)",3.815,32.002
+"Ridge (direct, new features)",3.975,29.151
+Seasonal naive (same hour yesterday),4.817,14.144
+Persistence,5.61,0.0
